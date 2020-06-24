@@ -1,0 +1,138 @@
+{
+  "main": {
+    "name":"Antonio Pennyman",
+    "description":"HTML / CSS / React / Bootstrap 4 / Materialize CSS",
+    "image":"profilepic.jpg",
+    "bio":"Proficient in HTML and CSS with a focus on learning more Javascript and frameworks such as React and Vue",
+    "contactmessage":"Any Questions Fell Free To Leave A Message",
+    "email": "ResourceRich.business@gmail.com",
+    "phone": "+46 76 284 4885",
+    "github":"https://github.com/silkRoadCodie",
+    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "address":{
+      "street":"Kings Highway",
+      "city":"Farsta",
+      "state":"Stockholm",
+      "zip": "12333"
+    },
+    "website": "http://www.digipenny.club",
+    "resumedownload":"https://github.com/silkRoadCodie/Resume",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/silkroadrunners",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/RichResource",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/antonio-pennyman-531b26193/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/resource_rich/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/silkRoadCodie",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education":[
+      {
+        "school":"Hyper Island",
+        "degree":"Frontend Development",
+        "graduated":"April 2021",
+        "description":"Create and enhance  "
+      },
+      {
+        "school":"CSU Eastbay",
+        "degree":"Hospitality and Tourism",
+        "graduated":"January 2015",
+        "description":"The Hospitality and Tourism program provides students with the knowledge they need in various industry sectors such as restaurant/food service, hotel/resort, special event/meeting planning and many others. My emphasis withi the program was Event Planning and Coordinating"
+      }
+    ],
+    "work":[
+      {
+        "company":"SRM Trading",
+        "title":"eSales / Frontend Admin",
+        "years":"1.5 år",
+        "description":"Maintain online inventory on company website as well as eBay platform. Marketing and shipment of products worldwide. Accounting and shipment database management. Paypal online virtual terminal administer and technical support. Logistics and inventory management. Some work with CMS management."
+      },
+      {
+        "company":"Europaskolan",
+        "title":"Teacher",
+        "years":"1 år",
+        "description":"Coordinating activities for students ages 8-10 years of age. Lead students in various digital arts lessons in graphic design, film editing and music production software to create stories and presentations. Also responsible for creating the schools very first yearbook which outlined all the unit work and activities as well as trips taken throughout the year."
+      }
+    ],
+    "skills":[
+      {
+        "name":"HTML",
+        "level":"85%"
+      },
+      {
+        "name":"CSS",
+        "level":"75%"
+      },
+      {
+        "name":"JavaScript",
+        "level":"50%"
+      },
+      {
+        "name":"React.JS",
+        "level":"60%"
+      },
+      {
+        "name":"Bootstrap 4",
+        "level":"80%"
+      },
+      {
+        "name":"Materialize CSS",
+        "level":"80%"
+      },
+      {
+        "name":"Git",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Tic Tac Toe",
+        "category":"Classic Strategy Game",
+        "image":"board.jpg",
+        "url":"https://codepen.io/silkroadrunner/pen/pooLQzZ"
+      },
+      {
+        "title":"Infinite PacMan",
+        "category":"Planck-Time Perspective",
+        "image":"pac.png",
+        "url":"https://github.com/silkRoadCodie/Infinite-PacMan"
+      },
+      {
+        "title":"Resume",
+        "category":"HTML/CSS RESUME",
+        "image":"devie.png",
+        "url":"https://github.com/silkRoadCodie/Resume"
+      },
+      {
+        "title":"Expanding Services Cards",
+        "category":"Flex-Cards",
+        "image":"flex.jpeg",
+        "url":"https://codepen.io/silkroadrunner/pen/jObRpRo"
+      }
+     
+    ]
+  }
+}
