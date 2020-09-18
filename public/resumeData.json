@@ -16,7 +16,7 @@
       "zip": "12333"
     },
     "website": "http://www.digipenny.club",
-    "resumedownload":"https://github.com/silkRoadCodie/Resume",
+    
     "social":[
       {
         "name":"facebook",
@@ -46,7 +46,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"",
+    "skillmessage":"Currently Learning my SQL database development and full stack library Meteor JS",
     "education":[
       {
         "school":"Hyper Island",
