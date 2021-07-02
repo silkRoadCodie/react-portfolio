@@ -3,20 +3,20 @@
     "name":"Antonio Pennyman",
     "description":"HTML / CSS / React / Bootstrap 4 / Materialize CSS",
     "image":"profilepic.jpg",
-    "bio":"Proficient in HTML and CSS with a focus on learning more Javascript and frameworks such as React and Vue",
+    "bio":"UI / UX Developer with a passion for Social Marketing, Digital Product Development & FinTech",
     "contactmessage":"Any Questions Fell Free To Leave A Message",
-    "email": "ResourceRich.business@gmail.com",
-    "phone": "+46 76 284 4885",
+    "email": "Antonio.Pennyman@HyperIsland.se",
+    "phone": "+46 73 985 4338",
     "github":"https://github.com/silkRoadCodie",
-    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "project":"https://silkroadcodie.github.io/React-Portfolio/",
     "address":{
       "street":"Kings Highway",
-      "city":"Farsta",
-      "state":"Stockholm",
-      "zip": "12333"
+      "city":"Stockholm",
+      "state":"",
+      "zip": "11131"
     },
-    "website": "http://www.digipenny.club",
-    "resumedownload":"https://github.com/silkRoadCodie/Resume",
+    "website": "http://www.resourcerichbrand.com",
+    
     "social":[
       {
         "name":"facebook",
@@ -46,19 +46,19 @@
     ]
   },
   "resume":{
-    "skillmessage":"",
+    "skillmessage":"Current Focus on API based e-commerce Dev, Headless CMS and Database Management",
     "education":[
       {
         "school":"Hyper Island",
         "degree":"Frontend Development",
         "graduated":"April 2021",
-        "description":"Create and enhance  "
+        "description":"Agile development driven curriculum providing core learnings for digial building in the real world."
       },
       {
         "school":"CSU Eastbay",
         "degree":"Hospitality and Tourism",
         "graduated":"January 2015",
-        "description":"The Hospitality and Tourism program provides students with the knowledge they need in various industry sectors such as restaurant/food service, hotel/resort, special event/meeting planning and many others. My emphasis withi the program was Event Planning and Coordinating"
+        "description":"Global tourism management with an emphasis on leisure activity and special event planning."
       }
     ],
     "work":[
@@ -109,28 +109,28 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Tic Tac Toe",
-        "category":"Classic Strategy Game",
-        "image":"board.jpg",
-        "url":"https://codepen.io/silkroadrunner/pen/pooLQzZ"
-      },
-      {
-        "title":"Infinite PacMan",
-        "category":"Planck-Time Perspective",
-        "image":"pac.png",
-        "url":"https://github.com/silkRoadCodie/Infinite-PacMan"
+        "title":"Branding / e-commerce Development",
+        "category":"Digital Services",
+        "image":"brand.jpg",
+        "url":"https://www.resourcerichbrand.com"
       },
       {
         "title":"Resume",
-        "category":"HTML/CSS RESUME",
+        "category":"Digital Hard Hat Zone",
         "image":"devie.png",
-        "url":"https://github.com/silkRoadCodie/Resume"
+        "url":"https://silkroadkodie.github.io/HTML-Resume-PDF/"
       },
       {
-        "title":"Expanding Services Cards",
-        "category":"Flex-Cards",
-        "image":"flex.jpeg",
-        "url":"https://codepen.io/silkroadrunner/pen/jObRpRo"
+        "title":"Specialties",
+        "category":"CSS",
+        "image":"devie.png",
+        "url":"https://silkroadkodie.github.io/HTML-Resume-PDF/"
+      },
+      {
+        "title":"Branding / e-commerce Development",
+        "category":"Digital Services",
+        "image":"lemon.jpeg",
+        "url":"https://shiftcolorcodedhealth.netlify.app/"
       }
      
     ]
